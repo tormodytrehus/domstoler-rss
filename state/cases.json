@@ -530,6 +530,12 @@
       "missing_count": 0,
       "summary": null
     },
+    "Trøndelag tingrett:AAAA2608130637599033185KMECMB_EJBSak": {
+      "fingerprint": "900b7af408e673bb55982a809bf094b50eae2156c479f812f3da82477063d26b",
+      "interesting": false,
+      "missing_count": 0,
+      "summary": null
+    },
     "Trøndelag tingrett:AAAA2608141323536096167RSYTHX_EJBSak": {
       "fingerprint": "94bd9d8caaa91413c54fadd4b350425aec7c3839e5f36c2d2053b595713cd91b",
       "interesting": false,
@@ -538,12 +544,6 @@
     },
     "Trøndelag tingrett:AAAA2608281137090542627WDZEBV_EJBSak": {
       "fingerprint": "19e9596a1f745e6d8967fb84160ca44697f5b92a1e3318694518f271e44bb176",
-      "interesting": false,
-      "missing_count": 0,
-      "summary": null
-    },
-    "Trøndelag tingrett:AAAA2608130637599033185KMECMB_EJBSak": {
-      "fingerprint": "900b7af408e673bb55982a809bf094b50eae2156c479f812f3da82477063d26b",
       "interesting": false,
       "missing_count": 0,
       "summary": null
