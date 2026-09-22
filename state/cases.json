@@ -8,152 +8,14 @@
       "missing_count": 0,
       "summary": null
     },
-    "Trøndelag tingrett:AAAA2606151213331396142IWRWMV_EJBSak": {
-      "fingerprint": "1c0e71ebaffe886c40cdb7996689ba0fbdcc58cb5c715672569f14636bfeebed",
-      "interesting": false,
-      "missing_count": 0,
-      "summary": null
-    },
-    "Trøndelag tingrett:AAAA2604131346539001013MNEBGA_EJBSak": {
-      "fingerprint": "a233f2cea2ff56a9e3d90509a2098c029680c951a9556953afbf551b567f72aa",
-      "interesting": false,
-      "missing_count": 0,
-      "summary": null
-    },
     "Trøndelag tingrett:AAAA2606020921424976170KOBBMG_EJBSak": {
       "fingerprint": "0e7eb1712b96a9ad51f5312872a6edd656ae3d48bcd4f441d2769c4f002adcce",
       "interesting": false,
       "missing_count": 0,
       "summary": null
     },
-    "Trøndelag tingrett:AAAA2604281121267821014OJJNKY_EJBSak": {
-      "fingerprint": "0c430f0952878459ea9bc767d9e49321a20c3727d2e7d1d2a160b2cafa22f7ca",
-      "interesting": false,
-      "missing_count": 0,
-      "summary": null
-    },
-    "Trøndelag tingrett:AAAA2604280726446931018NPUYJX_EJBSak": {
-      "fingerprint": "d31050ecfe90928d455a53e246f06f364deb8080810a9a6208fd5a5b0787cf97",
-      "interesting": false,
-      "missing_count": 0,
-      "summary": null
-    },
-    "Trøndelag tingrett:AAAA2606181242535593186STFLZU_EJBSak": {
-      "fingerprint": "eda5a2437a5949d3a278c7af483ac99c1ee62249dba3c17fcb6f2a1ac0abf6ca",
-      "interesting": false,
-      "missing_count": 0,
-      "summary": null
-    },
-    "Trøndelag tingrett:AAAA2606251225465256143GQMNJI_EJBSak": {
-      "fingerprint": "68f0474b1adac8c960681ad34e3f90eacc4f2008a3470fa762e60f9aedf448b9",
-      "interesting": false,
-      "missing_count": 0,
-      "summary": null
-    },
-    "Trøndelag tingrett:AAAA2606231215091912927NMZROG_EJBSak": {
-      "fingerprint": "24e02ad80af11931de9eb0eb6599ccacc93cf493f98a0c0fcd65866fce15b4b0",
-      "interesting": false,
-      "missing_count": 0,
-      "summary": null
-    },
-    "Trøndelag tingrett:AAAA2607211521148406182TLIEYR_EJBSak": {
-      "fingerprint": "a4f222a3889e35b722fd331807b368cd2abda20475b427322584eaa928f1617c",
-      "interesting": false,
-      "missing_count": 0,
-      "summary": null
-    },
-    "Trøndelag tingrett:AAAA2607081214098381021OBPOXX_EJBSak": {
-      "fingerprint": "583e7eca17f85b188ba14f52537319462fd01c58d8bcc51efac0c15d0a67c20d",
-      "interesting": false,
-      "missing_count": 0,
-      "summary": null
-    },
     "Trøndelag tingrett:AAAA2608071035300936151DBYEYP_EJBSak": {
       "fingerprint": "cb17f3e9282f04c43d1a8f6169fd574f4e25c25a9ea6167fcd6c606fb74b9929",
-      "interesting": false,
-      "missing_count": 0,
-      "summary": null
-    },
-    "Trøndelag tingrett:AAAA2608210817473132927YIWTEX_EJBSak": {
-      "fingerprint": "6ee3e9bc85b9fc4861b80716807fbe5d1073deb94f5e0a03b17d4b9f2726bc6a",
-      "interesting": false,
-      "missing_count": 0,
-      "summary": null
-    },
-    "Trøndelag tingrett:AAAA2608251131191663108ZOXXON_EJBSak": {
-      "fingerprint": "e8e6318eab2be1afe7b08fb2da6b9f0c27d7488eb6119b7910391c2b5033fefa",
-      "interesting": false,
-      "missing_count": 0,
-      "summary": null
-    },
-    "Trøndelag tingrett:AAAA2608261142194952663LIDYOV_EJBSak": {
-      "fingerprint": "7459bb5253bf886607263586da030c8ca46a356bc857a53a6915f043af469321",
-      "interesting": false,
-      "missing_count": 0,
-      "summary": null
-    },
-    "Trøndelag tingrett:AAAA2608241354018152638IIXGKT_EJBSak": {
-      "fingerprint": "a338dcbd27a453ee80d611d5ab9fe10010d8074d241ae559e5f41cbf40121d94",
-      "interesting": false,
-      "missing_count": 0,
-      "summary": null
-    },
-    "Trøndelag tingrett:AAAA2606121055328322620ZIFJZN_EJBSak": {
-      "fingerprint": "0ce26321dc921099a083ae18146f7429ae1e41537b95a001383e69705498d247",
-      "interesting": false,
-      "missing_count": 0,
-      "summary": null
-    },
-    "Trøndelag tingrett:AAAA2606051258058346166MTCNOR_EJBSak": {
-      "fingerprint": "b8eccd7e9717eb86c3f7881125dccf2880498355960d9e9100f8aa2f0dfd9309",
-      "interesting": false,
-      "missing_count": 0,
-      "summary": null
-    },
-    "Trøndelag tingrett:AAAA2608270958486806181GLKUTW_EJBSak": {
-      "fingerprint": "2df17af588c6cfb1c0154884bc00c549fd01c0270b5b182fda0e212e77ef7e7f",
-      "interesting": false,
-      "missing_count": 0,
-      "summary": null
-    },
-    "Trøndelag tingrett:AAAA2606301000281812611WCNQPY_EJBSak": {
-      "fingerprint": "0f77820c4c40930596773ad529efe57b94848ecf95dd7ed72481923926ce623f",
-      "interesting": false,
-      "missing_count": 0,
-      "summary": null
-    },
-    "Trøndelag tingrett:AAAA2608280911149952611BAPOMN_EJBSak": {
-      "fingerprint": "296e6d64881ac33485921f3d26d1b27dfffd72e828591950a52d2834c97a8ba9",
-      "interesting": false,
-      "missing_count": 0,
-      "summary": null
-    },
-    "Trøndelag tingrett:AAAA2606190812302436155IBXKFU_EJBSak": {
-      "fingerprint": "b4964209231b0f15232a8616f668ae21c0ddb980cf730e4423ef132b17d6d452",
-      "interesting": false,
-      "missing_count": 0,
-      "summary": null
-    },
-    "Trøndelag tingrett:AAAA2608280910074602611JEPYEL_EJBSak": {
-      "fingerprint": "c3003034cf74f788f0d42603aca5317d69bc156c74defae5c99ffc70a4f83a27",
-      "interesting": false,
-      "missing_count": 0,
-      "summary": null
-    },
-    "Trøndelag tingrett:AAAA2606102149072633183QRKCNM_EJBSak": {
-      "fingerprint": "783231c142b0462afcf83bb90b303ed42b04988be46485594724c0637c5d14be",
-      "interesting": false,
-      "missing_count": 0,
-      "summary": null
-    },
-    "Trøndelag tingrett:AAAA2608271127242516181EIRAZO_EJBSak": {
-      "fingerprint": "c4638a1d25fda159fdb13b5b7aaf9c61324f6904e9c000a4a16e7fe20165aefb",
-      "interesting": false,
-      "missing_count": 0,
-      "summary": null
-    },
-    "Trøndelag tingrett:AAAA2605120952533278214DFYGFH_EJBSak": {
-      "fingerprint": "543c9743081c1e86a688b7d1a5185c2f15f9a6cce02a473c95358da749a9502d",
       "interesting": false,
       "missing_count": 0,
       "summary": null
@@ -524,20 +386,14 @@
       "missing_count": 0,
       "summary": null
     },
-    "Trøndelag tingrett:AAAA2608071457160742657BXZKKY_EJBSak": {
-      "fingerprint": "bf31d6eaf689c13035bf797c3a3b97dd56bb6f35f52df4b43981bd942f4ffc6f",
-      "interesting": false,
-      "missing_count": 0,
-      "summary": null
-    },
     "Trøndelag tingrett:AAAA2608141323536096167RSYTHX_EJBSak": {
       "fingerprint": "94bd9d8caaa91413c54fadd4b350425aec7c3839e5f36c2d2053b595713cd91b",
       "interesting": false,
       "missing_count": 0,
       "summary": null
     },
-    "Trøndelag tingrett:AAAA2608281137090542627WDZEBV_EJBSak": {
-      "fingerprint": "19e9596a1f745e6d8967fb84160ca44697f5b92a1e3318694518f271e44bb176",
+    "Trøndelag tingrett:AAAA2608071457160742657BXZKKY_EJBSak": {
+      "fingerprint": "bf31d6eaf689c13035bf797c3a3b97dd56bb6f35f52df4b43981bd942f4ffc6f",
       "interesting": false,
       "missing_count": 0,
       "summary": null
@@ -548,14 +404,20 @@
       "missing_count": 0,
       "summary": null
     },
-    "Trøndelag tingrett:AAAA2608311220340636126SMDILA_EJBSak": {
-      "fingerprint": "bc757564d75d6f9bbf65a11abea8bf1893decd282dd97b2cbbd61c170b6e4127",
+    "Trøndelag tingrett:AAAA2608281137090542627WDZEBV_EJBSak": {
+      "fingerprint": "19e9596a1f745e6d8967fb84160ca44697f5b92a1e3318694518f271e44bb176",
       "interesting": false,
       "missing_count": 0,
       "summary": null
     },
     "Trøndelag tingrett:AAAA2609021306468812610LRTQXC_EJBSak": {
       "fingerprint": "5f421ec998d0f1ad3c0830b3d6541d3bc7723fa4f31a20a665555bf5615f8efa",
+      "interesting": false,
+      "missing_count": 0,
+      "summary": null
+    },
+    "Trøndelag tingrett:AAAA2608311220340636126SMDILA_EJBSak": {
+      "fingerprint": "bc757564d75d6f9bbf65a11abea8bf1893decd282dd97b2cbbd61c170b6e4127",
       "interesting": false,
       "missing_count": 0,
       "summary": null
@@ -602,8 +464,140 @@
       "missing_count": 0,
       "summary": null
     },
-    "Frostating lagmannsrett:AAAA2606081031238640811LJKVUI_EJBSak": {
-      "fingerprint": "ab11d75c8359f17bfec44df50cce5309590ce70733330fcc62d05b71fd811042",
+    "Trøndelag tingrett:AAAA2511181328024253084LHLLQE_EJBSak": {
+      "fingerprint": "d0cdb920a5e392ab726a94ec45226e7d4ef56358f2cc40c7c665a01c03139525",
+      "interesting": false,
+      "missing_count": 0,
+      "summary": null
+    },
+    "Trøndelag tingrett:AAAA2606241325194648212GKUXEA_EJBSak": {
+      "fingerprint": "a3617a8c2f697340c02b7dddfb70e2ade21dbeb73f49114174b1c7bda294e60a",
+      "interesting": false,
+      "missing_count": 0,
+      "summary": null
+    },
+    "Trøndelag tingrett:AAAA2607221319526402624AHUOPB_EJBSak": {
+      "fingerprint": "6cc7ec172f4314cce9eb1509ed789aaa383ff798dbefa91755877e927547fac5",
+      "interesting": false,
+      "missing_count": 0,
+      "summary": null
+    },
+    "Trøndelag tingrett:AAAA2511251122277118103XZILZG_EJBSak": {
+      "fingerprint": "77b06315edbc72e9ecd678306b16613bc8143110fe32a7065acf9d54f74bb82e",
+      "interesting": false,
+      "missing_count": 0,
+      "summary": null
+    },
+    "Trøndelag tingrett:AAAA2608130832220376125AIFAYR_EJBSak": {
+      "fingerprint": "8d853432c4a5de4a9eaa15896892e6165fd50fe06c2a7e7761c613298a0df7a8",
+      "interesting": false,
+      "missing_count": 0,
+      "summary": null
+    },
+    "Trøndelag tingrett:AAAA2608130821460386125LOODMJ_EJBSak": {
+      "fingerprint": "4ecb07db12a06127da2948aeaa9f62b33a18a51e75238ae725c575f1dfba0b5d",
+      "interesting": false,
+      "missing_count": 0,
+      "summary": null
+    },
+    "Trøndelag tingrett:AAAA2504031536433391829EGEVGN_EJBSak": {
+      "fingerprint": "d3a8e1db70c40d15502e0cdb47dd61c8ae30003dc6d97a053e6549b233101530",
+      "interesting": false,
+      "missing_count": 0,
+      "summary": null
+    },
+    "Trøndelag tingrett:AAAA2607280943089206140BRWMFP_EJBSak": {
+      "fingerprint": "36fe63cc3823e7109bba9b22f5ddaa6b9db69b0d0d6c338efecd1c37f26579da",
+      "interesting": false,
+      "missing_count": 0,
+      "summary": null
+    },
+    "Trøndelag tingrett:AAAA2606231359083492927ECVUXI_EJBSak": {
+      "fingerprint": "e6db6d3a706bb6f6e30d99ca022241922deff3bf89e35266ba245e23c02c9d4e",
+      "interesting": false,
+      "missing_count": 0,
+      "summary": null
+    },
+    "Trøndelag tingrett:AAAA2606180740324743088UKDYZQ_EJBSak": {
+      "fingerprint": "6390cadd8c7fa0a733dfb6b1610eb8ad51fc09dd46f9dc2f42366d854bef0577",
+      "interesting": false,
+      "missing_count": 0,
+      "summary": null
+    },
+    "Trøndelag tingrett:AAAA2607200820535368223EICUQN_EJBSak": {
+      "fingerprint": "049d4db7a43b310b6d06b4d5735f4d84c1dd019e824822c517b720c25790f0c5",
+      "interesting": false,
+      "missing_count": 0,
+      "summary": null
+    },
+    "Trøndelag tingrett:AAAA2607200856485391065PWLLTN_EJBSak": {
+      "fingerprint": "d88d99984b568e5c30a8ccce3dd03d43b027cc181e548fb9f81ce26e1a1b8d44",
+      "interesting": false,
+      "missing_count": 0,
+      "summary": null
+    },
+    "Trøndelag tingrett:AAAA2606080732368108212SXBEMF_EJBSak": {
+      "fingerprint": "5cdb15ad61ab29441b53e92f9fe983927e9f8e375bb9cf6875761f11c56c58f8",
+      "interesting": false,
+      "missing_count": 0,
+      "summary": null
+    },
+    "Trøndelag tingrett:AAAA2606301826260959218LATCPA_EJBSak": {
+      "fingerprint": "8e552a916062c3b8d6668d4c1d1f1e4c4063186c7cd54ef46e114e292a44ef7d",
+      "interesting": false,
+      "missing_count": 0,
+      "summary": null
+    },
+    "Trøndelag tingrett:AAAA2602101529115620830KKXQAN_EJBSak": {
+      "fingerprint": "f5839b0287ec403b3274936ae33a49748c1f40c70c02c4b27ca1e5f5b0498a27",
+      "interesting": false,
+      "missing_count": 0,
+      "summary": null
+    },
+    "Trøndelag tingrett:AAAA2601191433019998227HVMBFX_EJBSak": {
+      "fingerprint": "cef4263d1b732cc859204ccbca7ecf1eb53fbfc5ac387af27e76abf6c132344b",
+      "interesting": false,
+      "missing_count": 0,
+      "summary": null
+    },
+    "Trøndelag tingrett:AAAA2603020734571791035CGVQHV_EJBSak": {
+      "fingerprint": "29f4655bb99a0c906295084c25ca9fc14f4596e6f35124df87048b550b45a86e",
+      "interesting": false,
+      "missing_count": 0,
+      "summary": null
+    },
+    "Trøndelag tingrett:AAAA2604301349049646168HXGSFX_EJBSak": {
+      "fingerprint": "fcfceeddc575fd5030b2cdf8e81c067327133207c192d1f1b633b5b0cc818367",
+      "interesting": false,
+      "missing_count": 0,
+      "summary": null
+    },
+    "Trøndelag tingrett:AAAA2605261120055642827MXZAQO_EJBSak": {
+      "fingerprint": "e2a35fcfb7c4e6334fd69500fa9c727e7e5166644a5ce0b3d066cb4a512dbb67",
+      "interesting": false,
+      "missing_count": 0,
+      "summary": null
+    },
+    "Trøndelag tingrett:AAAA2606231103042496160DWSKYF_EJBSak": {
+      "fingerprint": "4583a8c18a14974ae2a04a9152833c0982548965dc6e1b58b7282a9167fcfd68",
+      "interesting": false,
+      "missing_count": 0,
+      "summary": null
+    },
+    "Trøndelag tingrett:AAAA2607211400003646182TZICVH_EJBSak": {
+      "fingerprint": "15c75eb911db72396a6169db90ce5f2785814bb9f98708f44ca2d888c457fb27",
+      "interesting": false,
+      "missing_count": 0,
+      "summary": null
+    },
+    "Trøndelag tingrett:AAAA2608041443499552615QBZOGZ_EJBSak": {
+      "fingerprint": "6f90da59bf07c4b0ac2d07c8d260024f468c3522aa29e04ed9556139269e52fd",
+      "interesting": false,
+      "missing_count": 0,
+      "summary": null
+    },
+    "Trøndelag tingrett:AAAA2607081541369556173TPVKNU_EJBSak": {
+      "fingerprint": "9ae14a855e3d64298b708530131884c773fb31257881c8f011f0da661aba8efc",
       "interesting": false,
       "missing_count": 0,
       "summary": null
@@ -1196,14 +1190,14 @@
       "missing_count": 0,
       "summary": null
     },
-    "Norges Høyesterett:AAAA2601121023364211014ODBMHG_EJBSak": {
-      "fingerprint": "d689c848e9f98bcf964c6e1c8c8358f14012bed8b526f045d2138b468131e568",
+    "Norges Høyesterett:AAAA2602120820087370830ZSOHSV_EJBSak": {
+      "fingerprint": "45613426792288f502acfd3db4658f72d0a0eca633eee315382ceec6b4a29dd0",
       "interesting": false,
       "missing_count": 0,
       "summary": null
     },
-    "Norges Høyesterett:AAAA2602120820087370830ZSOHSV_EJBSak": {
-      "fingerprint": "45613426792288f502acfd3db4658f72d0a0eca633eee315382ceec6b4a29dd0",
+    "Norges Høyesterett:AAAA2601121023364211014ODBMHG_EJBSak": {
+      "fingerprint": "d689c848e9f98bcf964c6e1c8c8358f14012bed8b526f045d2138b468131e568",
       "interesting": false,
       "missing_count": 0,
       "summary": null
@@ -1290,6 +1284,150 @@
       "fingerprint": "ec6a8b57316011ede0ff9d7690414ff3db5cb2e9581e6b69e57595c1ee869678",
       "interesting": false,
       "missing_count": 0,
+      "summary": null
+    },
+    "Trøndelag tingrett:AAAA2606151213331396142IWRWMV_EJBSak": {
+      "fingerprint": "1c0e71ebaffe886c40cdb7996689ba0fbdcc58cb5c715672569f14636bfeebed",
+      "interesting": false,
+      "missing_count": 1,
+      "summary": null
+    },
+    "Trøndelag tingrett:AAAA2604131346539001013MNEBGA_EJBSak": {
+      "fingerprint": "a233f2cea2ff56a9e3d90509a2098c029680c951a9556953afbf551b567f72aa",
+      "interesting": false,
+      "missing_count": 1,
+      "summary": null
+    },
+    "Trøndelag tingrett:AAAA2604281121267821014OJJNKY_EJBSak": {
+      "fingerprint": "0c430f0952878459ea9bc767d9e49321a20c3727d2e7d1d2a160b2cafa22f7ca",
+      "interesting": false,
+      "missing_count": 1,
+      "summary": null
+    },
+    "Trøndelag tingrett:AAAA2604280726446931018NPUYJX_EJBSak": {
+      "fingerprint": "d31050ecfe90928d455a53e246f06f364deb8080810a9a6208fd5a5b0787cf97",
+      "interesting": false,
+      "missing_count": 1,
+      "summary": null
+    },
+    "Trøndelag tingrett:AAAA2606181242535593186STFLZU_EJBSak": {
+      "fingerprint": "eda5a2437a5949d3a278c7af483ac99c1ee62249dba3c17fcb6f2a1ac0abf6ca",
+      "interesting": false,
+      "missing_count": 1,
+      "summary": null
+    },
+    "Trøndelag tingrett:AAAA2606251225465256143GQMNJI_EJBSak": {
+      "fingerprint": "68f0474b1adac8c960681ad34e3f90eacc4f2008a3470fa762e60f9aedf448b9",
+      "interesting": false,
+      "missing_count": 1,
+      "summary": null
+    },
+    "Trøndelag tingrett:AAAA2606231215091912927NMZROG_EJBSak": {
+      "fingerprint": "24e02ad80af11931de9eb0eb6599ccacc93cf493f98a0c0fcd65866fce15b4b0",
+      "interesting": false,
+      "missing_count": 1,
+      "summary": null
+    },
+    "Trøndelag tingrett:AAAA2607211521148406182TLIEYR_EJBSak": {
+      "fingerprint": "a4f222a3889e35b722fd331807b368cd2abda20475b427322584eaa928f1617c",
+      "interesting": false,
+      "missing_count": 1,
+      "summary": null
+    },
+    "Trøndelag tingrett:AAAA2607081214098381021OBPOXX_EJBSak": {
+      "fingerprint": "583e7eca17f85b188ba14f52537319462fd01c58d8bcc51efac0c15d0a67c20d",
+      "interesting": false,
+      "missing_count": 1,
+      "summary": null
+    },
+    "Trøndelag tingrett:AAAA2608210817473132927YIWTEX_EJBSak": {
+      "fingerprint": "6ee3e9bc85b9fc4861b80716807fbe5d1073deb94f5e0a03b17d4b9f2726bc6a",
+      "interesting": false,
+      "missing_count": 1,
+      "summary": null
+    },
+    "Trøndelag tingrett:AAAA2608251131191663108ZOXXON_EJBSak": {
+      "fingerprint": "e8e6318eab2be1afe7b08fb2da6b9f0c27d7488eb6119b7910391c2b5033fefa",
+      "interesting": false,
+      "missing_count": 1,
+      "summary": null
+    },
+    "Trøndelag tingrett:AAAA2608261142194952663LIDYOV_EJBSak": {
+      "fingerprint": "7459bb5253bf886607263586da030c8ca46a356bc857a53a6915f043af469321",
+      "interesting": false,
+      "missing_count": 1,
+      "summary": null
+    },
+    "Trøndelag tingrett:AAAA2608241354018152638IIXGKT_EJBSak": {
+      "fingerprint": "a338dcbd27a453ee80d611d5ab9fe10010d8074d241ae559e5f41cbf40121d94",
+      "interesting": false,
+      "missing_count": 1,
+      "summary": null
+    },
+    "Trøndelag tingrett:AAAA2606121055328322620ZIFJZN_EJBSak": {
+      "fingerprint": "0ce26321dc921099a083ae18146f7429ae1e41537b95a001383e69705498d247",
+      "interesting": false,
+      "missing_count": 1,
+      "summary": null
+    },
+    "Trøndelag tingrett:AAAA2606051258058346166MTCNOR_EJBSak": {
+      "fingerprint": "b8eccd7e9717eb86c3f7881125dccf2880498355960d9e9100f8aa2f0dfd9309",
+      "interesting": false,
+      "missing_count": 1,
+      "summary": null
+    },
+    "Trøndelag tingrett:AAAA2608270958486806181GLKUTW_EJBSak": {
+      "fingerprint": "2df17af588c6cfb1c0154884bc00c549fd01c0270b5b182fda0e212e77ef7e7f",
+      "interesting": false,
+      "missing_count": 1,
+      "summary": null
+    },
+    "Trøndelag tingrett:AAAA2606301000281812611WCNQPY_EJBSak": {
+      "fingerprint": "0f77820c4c40930596773ad529efe57b94848ecf95dd7ed72481923926ce623f",
+      "interesting": false,
+      "missing_count": 1,
+      "summary": null
+    },
+    "Trøndelag tingrett:AAAA2608280911149952611BAPOMN_EJBSak": {
+      "fingerprint": "296e6d64881ac33485921f3d26d1b27dfffd72e828591950a52d2834c97a8ba9",
+      "interesting": false,
+      "missing_count": 1,
+      "summary": null
+    },
+    "Trøndelag tingrett:AAAA2606190812302436155IBXKFU_EJBSak": {
+      "fingerprint": "b4964209231b0f15232a8616f668ae21c0ddb980cf730e4423ef132b17d6d452",
+      "interesting": false,
+      "missing_count": 1,
+      "summary": null
+    },
+    "Trøndelag tingrett:AAAA2608280910074602611JEPYEL_EJBSak": {
+      "fingerprint": "c3003034cf74f788f0d42603aca5317d69bc156c74defae5c99ffc70a4f83a27",
+      "interesting": false,
+      "missing_count": 1,
+      "summary": null
+    },
+    "Trøndelag tingrett:AAAA2606102149072633183QRKCNM_EJBSak": {
+      "fingerprint": "783231c142b0462afcf83bb90b303ed42b04988be46485594724c0637c5d14be",
+      "interesting": false,
+      "missing_count": 1,
+      "summary": null
+    },
+    "Trøndelag tingrett:AAAA2608271127242516181EIRAZO_EJBSak": {
+      "fingerprint": "c4638a1d25fda159fdb13b5b7aaf9c61324f6904e9c000a4a16e7fe20165aefb",
+      "interesting": false,
+      "missing_count": 1,
+      "summary": null
+    },
+    "Trøndelag tingrett:AAAA2605120952533278214DFYGFH_EJBSak": {
+      "fingerprint": "543c9743081c1e86a688b7d1a5185c2f15f9a6cce02a473c95358da749a9502d",
+      "interesting": false,
+      "missing_count": 1,
+      "summary": null
+    },
+    "Frostating lagmannsrett:AAAA2606081031238640811LJKVUI_EJBSak": {
+      "fingerprint": "ab11d75c8359f17bfec44df50cce5309590ce70733330fcc62d05b71fd811042",
+      "interesting": false,
+      "missing_count": 1,
       "summary": null
     }
   },
