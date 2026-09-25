@@ -1094,12 +1094,6 @@
       "missing_count": 0,
       "summary": null
     },
-    "Trøndelag jordskifterett:AAAA2605261020298176176NBRAQU_EJBSak": {
-      "fingerprint": "697f2a22ef25ca10312e0e1b90886541321ab123dee6a3d370ec683429ad331c",
-      "interesting": false,
-      "missing_count": 0,
-      "summary": null
-    },
     "Trøndelag jordskifterett:AAAA2603261442032353108CRVYFG_EJBSak": {
       "fingerprint": "fd60545e7d2272c1adb29e280b1d54f5b90a383b5b1932409baa05b210a7cd30",
       "interesting": false,
@@ -1260,6 +1254,12 @@
       "fingerprint": "ec6a8b57316011ede0ff9d7690414ff3db5cb2e9581e6b69e57595c1ee869678",
       "interesting": false,
       "missing_count": 0,
+      "summary": null
+    },
+    "Trøndelag jordskifterett:AAAA2605261020298176176NBRAQU_EJBSak": {
+      "fingerprint": "697f2a22ef25ca10312e0e1b90886541321ab123dee6a3d370ec683429ad331c",
+      "interesting": false,
+      "missing_count": 1,
       "summary": null
     }
   },
