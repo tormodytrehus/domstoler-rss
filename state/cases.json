@@ -698,12 +698,6 @@
       "missing_count": 0,
       "summary": null
     },
-    "Frostating lagmannsrett:AAAA2608190908082713187WSPQNB_EJBSak": {
-      "fingerprint": "213b212cda6d4abf09b1a59e857cedfb485054a1c68798b3f86f613ce48091ad",
-      "interesting": false,
-      "missing_count": 0,
-      "summary": null
-    },
     "Frostating lagmannsrett:AAAA2606221346098481010PCVCRI_EJBSak": {
       "fingerprint": "52b3941c994ec585330d352ed8ff6421e730723c22b33dc7776b6277eff31972",
       "interesting": false,
@@ -742,6 +736,12 @@
     },
     "Frostating lagmannsrett:AAAA2604210738049991816ZRINKD_EJBSak": {
       "fingerprint": "60d3a83499f9636aee1111618231dd2791cb2fd6da072836e789553dcae8482b",
+      "interesting": false,
+      "missing_count": 0,
+      "summary": null
+    },
+    "Frostating lagmannsrett:AAAA2608190908082713187WSPQNB_EJBSak": {
+      "fingerprint": "d9ff17860912a83fc3381ac61969534d87ca1c34d54063199e7d8b65822fb88b",
       "interesting": false,
       "missing_count": 0,
       "summary": null
