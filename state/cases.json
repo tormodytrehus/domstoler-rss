@@ -633,7 +633,7 @@
       "summary": null
     },
     "Frostating lagmannsrett:AAAA2605301158281832829KYAVCJ_EJBSak": {
-      "fingerprint": "cb9fd18970367287d7004edcc53a6ea7deeb295066020bb1ed4ce99922b72374",
+      "fingerprint": "ce3483b1607d21a32e672db2f0fe168dc683785e4130b75906b3ca8459a83e79",
       "interesting": false,
       "missing_count": 0,
       "summary": null
@@ -1172,6 +1172,12 @@
       "missing_count": 0,
       "summary": null
     },
+    "Norges Høyesterett:AAAA2605071243033819222OQUXLA_EJBSak": {
+      "fingerprint": "9702007c5bbba777e5e6d221c387326ff944ca40ef262af048fcb33fabd6ea4d",
+      "interesting": false,
+      "missing_count": 0,
+      "summary": null
+    },
     "Norges Høyesterett:AAAA2603121035123062925FGEMJD_EJBSak": {
       "fingerprint": "4524708d2311f6ee62debfa939bdde2228c2226bd5cc8e8124094399c4d460c0",
       "interesting": false,
@@ -1202,14 +1208,14 @@
       "missing_count": 0,
       "summary": null
     },
-    "Norges Høyesterett:AAAA2604301257422361015HGRLSD_EJBSak": {
-      "fingerprint": "7800c64a03bf1cf02ddfa040811f36031959fec32c52d6ec16c2e8d6451e512c",
+    "Norges Høyesterett:AAAA2604171217432871015VCHSED_EJBSak": {
+      "fingerprint": "859c6ba4b387d288fb7faea670db68d608958fcef7a9468b855af2142db98a40",
       "interesting": false,
       "missing_count": 0,
       "summary": null
     },
-    "Norges Høyesterett:AAAA2604171217432871015VCHSED_EJBSak": {
-      "fingerprint": "859c6ba4b387d288fb7faea670db68d608958fcef7a9468b855af2142db98a40",
+    "Norges Høyesterett:AAAA2604301257422361015HGRLSD_EJBSak": {
+      "fingerprint": "7800c64a03bf1cf02ddfa040811f36031959fec32c52d6ec16c2e8d6451e512c",
       "interesting": false,
       "missing_count": 0,
       "summary": null
