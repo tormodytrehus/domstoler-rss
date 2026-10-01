@@ -710,6 +710,12 @@
       "missing_count": 0,
       "summary": null
     },
+    "Frostating lagmannsrett:AAAA2606181422231973186PUTNJE_EJBSak": {
+      "fingerprint": "6a4d652c023e131c6c419451e8450507dba2ae2a8c8f72cb0245539687acaefe",
+      "interesting": false,
+      "missing_count": 0,
+      "summary": null
+    },
     "Frostating lagmannsrett:AAAA2608190908082713187WSPQNB_EJBSak": {
       "fingerprint": "d9ff17860912a83fc3381ac61969534d87ca1c34d54063199e7d8b65822fb88b",
       "interesting": false,
@@ -1036,6 +1042,12 @@
     },
     "Trøndelag jordskifterett:AAAA2507301151143066132NJFMYN_EJBSak": {
       "fingerprint": "606bfd17969370b0e4f8169a9949d7b69adef1951950528ea717a7a98c09f6f3",
+      "interesting": false,
+      "missing_count": 0,
+      "summary": null
+    },
+    "Trøndelag jordskifterett:AAAA2607031233093166154DQTXGL_EJBSak": {
+      "fingerprint": "e094a41c7d1cc9d67f5cae5a8b2e482f1fcd8db056c3507e30e7e446591ae26e",
       "interesting": false,
       "missing_count": 0,
       "summary": null
