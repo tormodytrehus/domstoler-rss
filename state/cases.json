@@ -1130,12 +1130,6 @@
       "missing_count": 0,
       "summary": null
     },
-    "Norges Høyesterett:AAAA2606111331290043183BAFOVL_EJBSak": {
-      "fingerprint": "1d0105171049c96d3e5c9fee5f9a564ef650dd71780914dca0604cad40c2c7a1",
-      "interesting": false,
-      "missing_count": 0,
-      "summary": null
-    },
     "Norges Høyesterett:AAAA2601201304374159214ABBCFX_EJBSak": {
       "fingerprint": "b82ba9382bf102c3fdbea7038d05e1205b7dee3e82f218ec08920ac0c0684f7a",
       "interesting": false,
@@ -1260,6 +1254,12 @@
       "fingerprint": "5f376782c3693188b3d0f67cc33b2bf94c086dc8ac37dc964d6db5c45ded8991",
       "interesting": false,
       "missing_count": 0,
+      "summary": null
+    },
+    "Norges Høyesterett:AAAA2606111331290043183BAFOVL_EJBSak": {
+      "fingerprint": "1d0105171049c96d3e5c9fee5f9a564ef650dd71780914dca0604cad40c2c7a1",
+      "interesting": false,
+      "missing_count": 1,
       "summary": null
     }
   },
