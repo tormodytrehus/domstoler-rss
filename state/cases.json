@@ -1046,6 +1046,12 @@
       "missing_count": 0,
       "summary": null
     },
+    "Trøndelag jordskifterett:AAAA2402131411229261154NZBSCA_EJBSak": {
+      "fingerprint": "710f617dc3bf021211402cb2be2ff625bc4d975d7df585f8be7674ccb257b929",
+      "interesting": false,
+      "missing_count": 0,
+      "summary": null
+    },
     "Trøndelag jordskifterett:AAAA2607031233093166154DQTXGL_EJBSak": {
       "fingerprint": "e094a41c7d1cc9d67f5cae5a8b2e482f1fcd8db056c3507e30e7e446591ae26e",
       "interesting": false,
@@ -1209,7 +1215,7 @@
       "summary": null
     },
     "Norges Høyesterett:AAAA2604301257422361015HGRLSD_EJBSak": {
-      "fingerprint": "7800c64a03bf1cf02ddfa040811f36031959fec32c52d6ec16c2e8d6451e512c",
+      "fingerprint": "e66f078ba342684cda89294844630b51fbcab03967baf855f05af0d3b92af7b2",
       "interesting": false,
       "missing_count": 0,
       "summary": null
@@ -1266,12 +1272,6 @@
       "fingerprint": "5f376782c3693188b3d0f67cc33b2bf94c086dc8ac37dc964d6db5c45ded8991",
       "interesting": false,
       "missing_count": 0,
-      "summary": null
-    },
-    "Trøndelag tingrett:AAAA2609081212223804269EOZXKB_EJBSak": {
-      "fingerprint": "64de5645ebb401388f5967e1605f17fa680e019923b8241c8594fe9f9c90fc9d",
-      "interesting": false,
-      "missing_count": 1,
       "summary": null
     }
   },
