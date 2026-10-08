@@ -501,7 +501,7 @@
       "summary": null
     },
     "Trøndelag tingrett:AAAA2509261751058992829ELAQMT_EJBSak": {
-      "fingerprint": "b2c8b57abec50025748c9e7ee6370c0fc5de55e16cf259c9208db45cd4a7ec62",
+      "fingerprint": "6050c3e0db8014780cec1f1a3f1f757cfec2c46b57ea84b062694c62bccf8a0e",
       "interesting": false,
       "missing_count": 0,
       "summary": null
@@ -1264,6 +1264,12 @@
     },
     "Norges Høyesterett:AAAA2605261431159953086RYFRCV_EJBSak": {
       "fingerprint": "5f376782c3693188b3d0f67cc33b2bf94c086dc8ac37dc964d6db5c45ded8991",
+      "interesting": false,
+      "missing_count": 0,
+      "summary": null
+    },
+    "Norges Høyesterett:AAAA2608270905529848218KHSRDC_EJBSak": {
+      "fingerprint": "fe4fd8a84cb88f101cb1839333dd9e304e37bae9bac88aa1a4b8205089ce1d4f",
       "interesting": false,
       "missing_count": 0,
       "summary": null
