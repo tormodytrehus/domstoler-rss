@@ -158,14 +158,14 @@
       "missing_count": 0,
       "summary": null
     },
-    "Trøndelag tingrett:AAAA2609070809075122655MJXDYX_EJBSak": {
-      "fingerprint": "7d7337b0c3fba788e592378dd219559aff7549f08a03fb3149c5ee83b08f505e",
+    "Trøndelag tingrett:AAAA2608261233552362627XNAGPR_EJBSak": {
+      "fingerprint": "67e359e056ea9b60466955d54d4ce9ebda53d7670a7558342209643235c1adda",
       "interesting": false,
       "missing_count": 0,
       "summary": null
     },
-    "Trøndelag tingrett:AAAA2608261233552362627XNAGPR_EJBSak": {
-      "fingerprint": "67e359e056ea9b60466955d54d4ce9ebda53d7670a7558342209643235c1adda",
+    "Trøndelag tingrett:AAAA2609070809075122655MJXDYX_EJBSak": {
+      "fingerprint": "7d7337b0c3fba788e592378dd219559aff7549f08a03fb3149c5ee83b08f505e",
       "interesting": false,
       "missing_count": 0,
       "summary": null
@@ -249,7 +249,7 @@
       "summary": null
     },
     "Trøndelag tingrett:AAAA2509261751058992829ELAQMT_EJBSak": {
-      "fingerprint": "b2c8b57abec50025748c9e7ee6370c0fc5de55e16cf259c9208db45cd4a7ec62",
+      "fingerprint": "6050c3e0db8014780cec1f1a3f1f757cfec2c46b57ea84b062694c62bccf8a0e",
       "interesting": false,
       "missing_count": 0,
       "summary": null
@@ -555,7 +555,7 @@
       "summary": null
     },
     "Trøndelag tingrett:AAAA2607201421264558223NWEONL_EJBSak": {
-      "fingerprint": "c58185e9c9991a6ebe7688c2ff389ff8d77d9986e0e14fdfe180e064e4258025",
+      "fingerprint": "59f0cae47b4bade1c277edb2c4dd892aa8175228d0d55ddc989eb59c90417706",
       "interesting": false,
       "missing_count": 0,
       "summary": null
@@ -790,6 +790,12 @@
     },
     "Frostating lagmannsrett:AAAA2607300832143500821WNZKAT_EJBSak": {
       "fingerprint": "55a460d2131645e370976bcd88c1314bd4c46fa7b32b23e058baeeb8f5218447",
+      "interesting": false,
+      "missing_count": 0,
+      "summary": null
+    },
+    "Frostating lagmannsrett:AAAA2609151356143251821YPOQYE_EJBSak": {
+      "fingerprint": "c883cd3eefad097a18a30e5115f496dac6ca69043da9921fbe755f2943be6324",
       "interesting": false,
       "missing_count": 0,
       "summary": null
@@ -1281,7 +1287,7 @@
       "summary": null
     },
     "Norges Høyesterett:AAAA2605261132427383107LAODPU_EJBSak": {
-      "fingerprint": "5b76386b05ff10961fa0fb01e0b0b071a2a1574bcaa74c59c4f0d7d16ef15df9",
+      "fingerprint": "b1e2d55317b6fff4531e97f00da4cc617fb3139f7f1c471811884a04bf9e7f68",
       "interesting": false,
       "missing_count": 0,
       "summary": null
