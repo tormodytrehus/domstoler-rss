@@ -3,7 +3,7 @@
   "initialized": true,
   "cases": {
     "Trøndelag tingrett:AAAA2509261751058992829ELAQMT_EJBSak": {
-      "fingerprint": "b2c8b57abec50025748c9e7ee6370c0fc5de55e16cf259c9208db45cd4a7ec62",
+      "fingerprint": "6050c3e0db8014780cec1f1a3f1f757cfec2c46b57ea84b062694c62bccf8a0e",
       "interesting": false,
       "missing_count": 0,
       "summary": null
@@ -434,12 +434,6 @@
       "missing_count": 0,
       "summary": null
     },
-    "Trøndelag tingrett:AAAA2609081212223804269EOZXKB_EJBSak": {
-      "fingerprint": "350c1d9ca112599bb7752cb9d45623fc1ffad25f2e3f0ab5b6a0be720c0e472d",
-      "interesting": false,
-      "missing_count": 0,
-      "summary": null
-    },
     "Trøndelag tingrett:AAAA2609010839497616176OTHCHY_EJBSak": {
       "fingerprint": "5e1be473795c69f3ac00972fa5d70d609cd726e129381748e924009c8eaed400",
       "interesting": false,
@@ -448,6 +442,12 @@
     },
     "Trøndelag tingrett:AAAA2609071209202960830OEOETM_EJBSak": {
       "fingerprint": "974c902ec85f04017efb113eef08ed8fc13655ef6830d7ea169cc496a7139665",
+      "interesting": false,
+      "missing_count": 0,
+      "summary": null
+    },
+    "Trøndelag tingrett:AAAA2609081212223804269EOZXKB_EJBSak": {
+      "fingerprint": "350c1d9ca112599bb7752cb9d45623fc1ffad25f2e3f0ab5b6a0be720c0e472d",
       "interesting": false,
       "missing_count": 0,
       "summary": null
