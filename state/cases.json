@@ -3,7 +3,7 @@
   "initialized": true,
   "cases": {
     "Trøndelag tingrett:AAAA2509261751058992829ELAQMT_EJBSak": {
-      "fingerprint": "6050c3e0db8014780cec1f1a3f1f757cfec2c46b57ea84b062694c62bccf8a0e",
+      "fingerprint": "b2c8b57abec50025748c9e7ee6370c0fc5de55e16cf259c9208db45cd4a7ec62",
       "interesting": false,
       "missing_count": 0,
       "summary": null
@@ -724,6 +724,12 @@
     },
     "Frostating lagmannsrett:AAAA2609281332118120846SWFZWS_EJBSak": {
       "fingerprint": "debb3a608d052e0cf169cc35180d957018db54fb43626f25a2c8241fff6b69cf",
+      "interesting": false,
+      "missing_count": 0,
+      "summary": null
+    },
+    "Frostating lagmannsrett:AAAA2610121759281081026BLUBLO_EJBSak": {
+      "fingerprint": "61a1935a4f8ae3da0ee6af971a63cf618977159dc99ba5d1edb31254aae0584f",
       "interesting": false,
       "missing_count": 0,
       "summary": null
