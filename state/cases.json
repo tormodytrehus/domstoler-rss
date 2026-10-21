@@ -1285,18 +1285,6 @@
       "interesting": false,
       "missing_count": 0,
       "summary": null
-    },
-    "Frostating lagmannsrett:AAAA2608111352181151065GGZKUL_EJBSak": {
-      "fingerprint": "ce43a5726f86a71dd2ee48e5ff543cbcbcf296e6e0b409d79e5e33fc57262750",
-      "interesting": false,
-      "missing_count": 1,
-      "summary": null
-    },
-    "Frostating lagmannsrett:AAAA2608111343247779222HDIATV_EJBSak": {
-      "fingerprint": "a17fb4aafa2a5b23e0ef65a90b8a9545a4e3547cec3cdcd9dfb8c2c8cc9851a2",
-      "interesting": false,
-      "missing_count": 1,
-      "summary": null
     }
   },
   "events": [
